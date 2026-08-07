@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Лейла 👋
 
-<!--
-**Leilakilm/leilakilm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack разработчик из города Уфа
 
-Here are some ideas to get you started:
+## 📫 Связаться со мной
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: leilakilm@mail.ru  
+💬 По вопросам сотрудничества пишите в чат Avito.
+
+## ⚡ Сейчас я работаю над
+
+- Заполняю портфолио новыми проектами
+- Осваиваю Laravel 13: изучаю новые возможности и оптимизацию запросов
+- Разрабатываю API для мобильного приложения на Laravel + Sanctum
+- Открыта к заказам с 01.08.2026
