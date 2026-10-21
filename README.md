@@ -12,7 +12,7 @@
 | Проект | Описание | Стек |
 |--------|----------|------|
 | [Сайт-визитка](https://leilakilm.github.io/portfolio/) | Более подробная информация о моей работе | HTML5, CSS3, JS |
-| [PetHealth ](https://github.com/Leilakilm/PetHealth) | Сайт о грибах, где можно изучить их описания и узнать, как безопасно подходить к сбору. | Laravel, Blade, TailwindCss |
+| [PetHealth ](https://github.com/Leilakilm/PetHealth) | Сайт о грибах, где можно изучить их описания и узнать, как безопасно подходить к сбору. | PHP (Laravel), MySQL, React.js (архитектура SPA), React Router, Tailwind CSS, REST API, Laravel Sanctum |
 | [Mushrooms_archive](https://github.com/Leilakilm/Mushrooms_archive) | Проект онлайн-сервиса для записи питомцев к ветеринару. | Laravel, Blade, CSS3 |
 
 ## 📁 Сейчас я работаю над
