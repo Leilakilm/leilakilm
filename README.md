@@ -2,12 +2,11 @@
 ### Full-Stack разработчик из города Уфа
 
 
-## 📫 Связаться со мной
+## Связаться со мной
+Email: leilakilm@mail.ru  
+По вопросам сотрудничества пишите в чат Avito.
 
-📧 Email: leilakilm@mail.ru  
-💬 По вопросам сотрудничества пишите в чат Avito.
-
-## 🧾 Мои проекты
+## Мои проекты
 
 | Проект | Описание | Стек |
 |--------|----------|------|
@@ -15,7 +14,7 @@
 | [PetHealth ](https://github.com/Leilakilm/PetHealth) | Сайт о грибах, где можно изучить их описания и узнать, как безопасно подходить к сбору. | PHP (Laravel), MySQL, React.js (архитектура SPA), React Router, Tailwind CSS, REST API, Laravel Sanctum |
 | [Mushrooms_archive](https://github.com/Leilakilm/Mushrooms_archive) | Проект онлайн-сервиса для записи питомцев к ветеринару. | Laravel, Blade, CSS3 |
 
-## 📁 Сейчас я работаю над
+## Сейчас я работаю над
 
 - Заполняю портфолио новыми проектами
 - Осваиваю Laravel 13: изучаю новые возможности и оптимизацию запросов
